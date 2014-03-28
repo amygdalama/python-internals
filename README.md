@@ -6,13 +6,15 @@ Here is a collection of articles, tutorials, and whatnot that help with understa
 
 * [Python/C API Reference Manual](http://docs.python.org/2.7/c-api/index.html), Python Documentation
 
-###[Eli Bendersky's Python Internals series](http://eli.thegreenplace.net/category/programming/python/python-internals/)
+###Blog Post Series
 
-* [Adding a New Statement to Python](http://eli.thegreenplace.net/2010/06/30/python-internals-adding-a-new-statement-to-python/), by Eli Bendersky
+* [Eli Bendersky's Python Internals series](http://eli.thegreenplace.net/category/programming/python/python-internals/)
 
-###[Yaniv Aknin's Python Innards series](http://tech.blog.aknin.name/category/my-projects/pythons-innards/)
+  * [Adding a New Statement to Python](http://eli.thegreenplace.net/2010/06/30/python-internals-adding-a-new-statement-to-python/), by Eli Bendersky
 
-###[Allison Kaptur's Python Internals Series](http://akaptur.github.io/blog/categories/python-internals/)
+* [Yaniv Aknin's Python Innards series](http://tech.blog.aknin.name/category/my-projects/pythons-innards/)
+
+* [Allison Kaptur's Python Internals Series](http://akaptur.github.io/blog/categories/python-internals/)
 
 ###Other Various Blog Posts and Papers
 
