@@ -1,16 +1,16 @@
 Here is a collection of articles, tutorials, and whatnot that help with understanding of CPython internals and source code.
 
-###[Python Documentation]
+###Python Documentation
 
-* [Extending and Embedding the Python Interpreter](http://docs.python.org/2.7/extending/index.html), Python Documentation
+* [Extending and Embedding the Python Interpreter](http://docs.python.org/2.7/extending/index.html)
 
-* [Python/C API Reference Manual](http://docs.python.org/2.7/c-api/index.html), Python Documentation
+* [Python/C API Reference Manual](http://docs.python.org/2.7/c-api/index.html)
 
 ###Blog Post Series
 
 * [Eli Bendersky's Python Internals series](http://eli.thegreenplace.net/category/programming/python/python-internals/)
 
-  * [Adding a New Statement to Python](http://eli.thegreenplace.net/2010/06/30/python-internals-adding-a-new-statement-to-python/), by Eli Bendersky
+  * [Adding a New Statement to Python](http://eli.thegreenplace.net/2010/06/30/python-internals-adding-a-new-statement-to-python/)
 
 * [Yaniv Aknin's Python Innards series](http://tech.blog.aknin.name/category/my-projects/pythons-innards/)
 
