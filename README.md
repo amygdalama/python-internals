@@ -18,6 +18,8 @@ Here is a collection of articles, tutorials, and whatnot that help with understa
 
 * [Allison Kaptur's Python Internals Series](http://akaptur.github.io/blog/categories/python-internals/)
 
+* [My Python Internals Series!](http://mathamy.com/tag/python-internals.html)
+
 ###Other Various Blog Posts and Papers
 
 * [Python Compiler Internals](http://tomlee.co/wp-content/uploads/2012/11/108_python-language-internals.pdf), by Thomas Lee
