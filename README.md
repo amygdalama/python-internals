@@ -27,3 +27,5 @@ Here is a collection of articles, tutorials, and whatnot that help with understa
 * [How Fast Can We Make Interpreted Python?](http://arxiv.org/pdf/1306.6047v2.pdf), by Russel Power and Alex Rubinsteyn
 
 * [Python Attributes and Methods](http://www.cafepy.com/article/python_attributes_and_methods/python_attributes_and_methods.html)
+
+* [Understanding Python by breaking it](http://blog.hakril.net/articles/0-understanding-python-by-breaking-it.html)
