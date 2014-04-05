@@ -2,7 +2,7 @@ Here is a collection of articles, tutorials, and whatnot that help with understa
 
 ###Python Documentation
 
-*[Python Developer's Guide](http://docs.python.org/devguide/)
+* [Python Developer's Guide](http://docs.python.org/devguide/)
 
 * [Extending and Embedding the Python Interpreter](http://docs.python.org/2.7/extending/index.html)
 
