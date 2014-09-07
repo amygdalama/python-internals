@@ -10,7 +10,7 @@ Here is a collection of articles, tutorials, and whatnot that help with understa
 
 ###Blog Post Series
 
-* [Eli Bendersky's Python Internals series](http://eli.thegreenplace.net/category/programming/python/python-internals/)
+* [Eli Bendersky's Python Internals series](http://eli.thegreenplace.net/tag/python-internals)
 
   * [Adding a New Statement to Python](http://eli.thegreenplace.net/2010/06/30/python-internals-adding-a-new-statement-to-python/)
 
