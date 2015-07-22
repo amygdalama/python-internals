@@ -29,3 +29,5 @@ Here is a collection of articles, tutorials, and whatnot that help with understa
 * [Python Attributes and Methods](http://www.cafepy.com/article/python_attributes_and_methods/python_attributes_and_methods.html)
 
 * [Understanding Python by breaking it](http://blog.hakril.net/articles/0-understanding-python-by-breaking-it.html)
+
+* [CPython internals: A ten-hour codewalk] (http://pgbovine.net/cpython-internals.htm)
