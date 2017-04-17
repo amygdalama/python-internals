@@ -1,6 +1,6 @@
 Here is a collection of articles, tutorials, and whatnot that help with understanding of CPython internals and source code.
 
-###Python Documentation
+### Python Documentation
 
 * [Python Developer's Guide](http://docs.python.org/devguide/)
 
@@ -8,7 +8,7 @@ Here is a collection of articles, tutorials, and whatnot that help with understa
 
 * [Python/C API Reference Manual](http://docs.python.org/2.7/c-api/index.html)
 
-###Blog Post Series
+### Blog Post Series
 
 * [Eli Bendersky's Python Internals series](http://eli.thegreenplace.net/tag/python-internals)
 
@@ -20,7 +20,7 @@ Here is a collection of articles, tutorials, and whatnot that help with understa
 
 * [My Python Internals Series!](http://mathamy.com/tag/python-internals.html)
 
-###Other Various Blog Posts and Papers
+### Other Various Blog Posts and Papers
 
 * [Python Compiler Internals](http://tomlee.co/wp-content/uploads/2012/11/108_python-language-internals.pdf), by Thomas Lee
 
