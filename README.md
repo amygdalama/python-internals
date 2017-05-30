@@ -29,3 +29,9 @@ Here is a collection of articles, tutorials, and whatnot that help with understa
 * [Python Attributes and Methods](http://www.cafepy.com/article/python_attributes_and_methods/python_attributes_and_methods.html)
 
 * [Understanding Python by breaking it](http://blog.hakril.net/articles/0-understanding-python-by-breaking-it.html)
+
+###Videos
+* [Philip Guo's CPython Internals code walk](https://www.youtube.com/playlist?list=PLV7iu6GiDKwQWZbapY5mPEQa0V1OgC358)
+
+###Books
+* [Obi Ike-Nwosu's "Inside The Python Virtual Machine"](https://leanpub.com/insidethepythonvirtualmachine)
